@@ -1,5 +1,4 @@
-# Shopping_Organizer
-A tool hat helps you plan your day-to-day shopping better and spend less money
+
 
 # 🛒 Smart Shopping Assistant
 
