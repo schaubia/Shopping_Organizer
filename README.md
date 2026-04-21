@@ -163,6 +163,3 @@ No data is stored. All processing happens within your Streamlit session. Meal in
 
 ---
 
-## 📄 License
-
-MIT — free to use, modify, and distribute.
