@@ -1,0 +1,30 @@
+# Web framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9       # file uploads
+
+# Database
+sqlalchemy==2.0.35
+alembic==1.13.3               # migrations
+
+# Auth
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Config
+pydantic-settings==2.5.2
+
+# ML — Food recognition (from HealthyFood)
+torch==2.4.1
+torchvision==0.19.1
+transformers==4.44.2          # ViT (nateraw/food)
+tensorflow-cpu==2.17.0        # ResNet50
+Pillow==10.4.0
+numpy==1.26.4
+
+# HTTP
+requests==2.32.3
+
+# Dev / testing
+pytest==8.3.3
+httpx==0.27.2                  # test client
