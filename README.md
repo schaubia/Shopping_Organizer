@@ -2,7 +2,7 @@
 
 # 🛒 Smart Shopping Assistant
 
-A Streamlit application powered by Claude AI that helps you plan meals, optimise your grocery shopping, and avoid unnecessary spending.
+App that helps you plan meals, optimise your grocery shopping, and avoid unnecessary spending.
 
 ---
 
